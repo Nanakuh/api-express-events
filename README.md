@@ -1,3 +1,3 @@
 # mockFoodData
 
-GET => https://discordante.github.io/mockFoodData/mock-food-data.json# mock-api-food
+GET => https://nanakuh.github.io/mock-api-food/mock-food-data.json
