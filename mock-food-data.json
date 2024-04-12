@@ -1,5 +1,6 @@
 [
   {
+    "id":"c6a69c5d-4192-4e48-b01d-266e65e343b2",
     "name": "Braised Sirloin Steak in Fig Sauce",
     "description": "Delicious braised sirloin steak served with a rich fig sauce, accompanied by a selection of vegetables and seasoned with a blend of Provencal herbs.",
     "quantity": "450 grams",
@@ -8,7 +9,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "104 kcal",
         "energy": "437 kJ",
         "fats": "4.4 g",
@@ -20,7 +21,7 @@
         "salt": "0.4 g"
       },
       {
-        "quantity": "per 450g",
+        "quantity": "450g",
         "calories": "468 kcal",
         "energy": "1966 kJ",
         "fats": "19.8 g",
@@ -56,15 +57,16 @@
     "foodGroup": "meat"
   },
   {
+    "id":"7e3c3cee-e638-48e6-a78d-ef7899648438",
     "name": "Salmon with Cava Sauce",
     "description": "Tender salmon served with a delicate cava sauce, accompanied by a medley of vegetables and seasoned with Cajun spices.",
     "quantity": "450 grams",
     "price": 8.95,
     "currency": "EUR",
-    "stock": 100,
+    "stock": 0,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "106 kcal",
         "energy": "443 kJ",
         "fats": "5 g",
@@ -76,7 +78,7 @@
         "salt": "0.4 g"
       },
       {
-        "quantity": "per 450g",
+        "quantity": "450g",
         "calories": "477 kcal",
         "energy": "1993 kJ",
         "fats": "22.5 g",
@@ -128,7 +130,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "192 kcal",
         "energy": "805 kJ",
         "fats": "9.7 g",
@@ -140,7 +142,7 @@
         "salt": "0.2 g"
       },
       {
-        "quantity": "per 420g",
+        "quantity": "420g",
         "calories": "806 kcal",
         "energy": "3381 kJ",
         "fats": "40.7 g",
@@ -182,7 +184,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "144 kcal",
         "energy": "603 kJ",
         "fats": "8.1 g",
@@ -194,7 +196,7 @@
         "salt": "0.5 g"
       },
       {
-        "quantity": "per 450g",
+        "quantity": "450g",
         "calories": "648 kcal",
         "energy": "2713 kJ",
         "fats": "36.4 g",
@@ -233,7 +235,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "169 kcal",
         "energy": "708 kJ",
         "fats": "5.7 g",
@@ -245,7 +247,7 @@
         "salt": "0.1 g"
       },
       {
-        "quantity": "per 450g",
+        "quantity": "450g",
         "calories": "760 kcal",
         "energy": "3186 kJ",
         "fats": "25.6 g",
@@ -282,10 +284,10 @@
     "quantity": "450 grams",
     "price": 8.95,
     "currency": "EUR",
-    "stock": 100,
+    "stock": 0,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "86 kcal",
         "energy": "361 kJ",
         "fats": "3 g",
@@ -297,7 +299,7 @@
         "salt": "0.4 g"
       },
       {
-        "quantity": "per 450g",
+        "quantity": "450g",
         "calories": "387 kcal",
         "energy": "1624 kJ",
         "fats": "13.5 g",
@@ -314,7 +316,7 @@
       "potato",
       "pea",
       "pumpkin",
-      "Vizcaina sauce (fish broth, red pepper, onion, natural tomato, extra virgin olive oil, choricero pepper paste, brandy, garlic, salt, pepper, vegetable broth, corn starch)"
+      "Vizcaina sauce (fish broth, red pepper, onion, natural tomato, extra virgin olive oil, choricero peppaste, brandy, garlic, salt, pepper, vegetable broth, corn starch)"
     ],
     "allergens": ["FISH", "CRUSTACEANS", "MOLLUSCS", "CELERY"],
     "images": [
@@ -334,7 +336,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "108 kcal",
         "energy": "454 kJ",
         "fats": "5.5 g",
@@ -346,7 +348,7 @@
         "salt": "0.1 g"
       },
       {
-        "quantity": "per 450g",
+        "quantity": "450g",
         "calories": "486 kcal",
         "energy": "2043 kJ",
         "fats": "24.7 g",
@@ -386,7 +388,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "87 kcal",
         "energy": "362 kJ",
         "fats": "2.8 g",
@@ -398,7 +400,7 @@
         "salt": "0.2 g"
       },
       {
-        "quantity": "per 450g",
+        "quantity": "450g",
         "calories": "391 kcal",
         "energy": "1629 kJ",
         "fats": "12.6 g",
@@ -437,7 +439,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "109 kcal",
         "energy": "458 kJ",
         "fats": "1.9 g",
@@ -449,7 +451,7 @@
         "salt": "0.2 g"
       },
       {
-        "quantity": "per 450g",
+        "quantity": "450g",
         "calories": "490 kcal",
         "energy": "2061 kJ",
         "fats": "8.5 g",
@@ -491,7 +493,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "126 kcal",
         "energy": "526 kJ",
         "fats": "5.5 g",
@@ -503,7 +505,7 @@
         "salt": "0.3 g"
       },
       {
-        "quantity": "per 420g",
+        "quantity": "420g",
         "calories": "529 kcal",
         "energy": "2209 kJ",
         "fats": "23.1 g",
@@ -555,7 +557,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "142 kcal",
         "energy": "594 kJ",
         "fats": "2.3 g",
@@ -567,7 +569,7 @@
         "salt": "0.2 g"
       },
       {
-        "quantity": "per 450g",
+        "quantity": "450g",
         "calories": "639 kcal",
         "energy": "2673 kJ",
         "fats": "10.3 g",
@@ -614,7 +616,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "72 kcal",
         "energy": "303 kJ",
         "fats": "1.6 g",
@@ -626,7 +628,7 @@
         "salt": "0.4 g"
       },
       {
-        "quantity": "per 420g",
+        "quantity": "420g",
         "calories": "302 kcal",
         "energy": "1273 kJ",
         "fats": "6.7 g",
@@ -667,7 +669,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "153 kcal",
         "energy": "640 kJ",
         "fats": "3.9 g",
@@ -679,7 +681,7 @@
         "salt": "0.4 g"
       },
       {
-        "quantity": "per 420g",
+        "quantity": "420g",
         "calories": "642 kcal",
         "energy": "2688 kJ",
         "fats": "16.3 g",
@@ -723,7 +725,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "73 kcal",
         "energy": "306 kJ",
         "fats": "1.9 g",
@@ -735,7 +737,7 @@
         "salt": "0.3 g"
       },
       {
-        "quantity": "per 400g",
+        "quantity": "400g",
         "calories": "292 kcal",
         "energy": "1224 kJ",
         "fats": "7.6 g",
@@ -777,7 +779,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "215 kcal",
         "energy": "901 kJ",
         "fats": "8.8 g",
@@ -789,7 +791,7 @@
         "salt": "0.04 g"
       },
       {
-        "quantity": "per 150g",
+        "quantity": "150g",
         "calories": "322 kcal",
         "energy": "1351 kJ",
         "fats": "13.2 g",
@@ -832,7 +834,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "142 kcal",
         "energy": "596 kJ",
         "fats": "1.8 g",
@@ -844,7 +846,7 @@
         "salt": "0.1 g"
       },
       {
-        "quantity": "per 150g",
+        "quantity": "150g",
         "calories": "213 kcal",
         "energy": "894 kJ",
         "fats": "2.7 g",
@@ -884,7 +886,7 @@
     "stock": 100,
     "nutritionalInfo": [
       {
-        "quantity": "per 100g",
+        "quantity": "100g",
         "calories": "437 kcal",
         "energy": "1829 kJ",
         "fats": "28.1 g",
@@ -896,7 +898,7 @@
         "salt": "0.09 g"
       },
       {
-        "quantity": "per 150g",
+        "quantity": "150g",
         "calories": "655 kcal",
         "energy": "2738 kJ",
         "fats": "42.1 g",
