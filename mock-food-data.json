@@ -1,0 +1,928 @@
+[
+  {
+    "name": "Braised Sirloin Steak in Fig Sauce",
+    "description": "Delicious braised sirloin steak served with a rich fig sauce, accompanied by a selection of vegetables and seasoned with a blend of Provencal herbs.",
+    "quantity": "450 grams",
+    "price": 7.95,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "104 kcal",
+        "energy": "437 kJ",
+        "fats": "4.4 g",
+        "saturatedFats": "1.0 g",
+        "carbohydrates": "7.4 g",
+        "sugars": "2.8 g",
+        "protein": "8.1 g",
+        "dietaryFiber": "1.4 g",
+        "salt": "0.4 g"
+      },
+      {
+        "quantity": "per 450g",
+        "calories": "468 kcal",
+        "energy": "1966 kJ",
+        "fats": "19.8 g",
+        "saturatedFats": "4.5 g",
+        "carbohydrates": "33.3 g",
+        "sugars": "12.6 g",
+        "protein": "36.4 g",
+        "dietaryFiber": "6.3 g",
+        "salt": "1.8 g"
+      }
+    ],
+    "ingredients": [
+      "sirloin",
+      "fig sauce (chicken broth, onion, dried fig, mistela, corn starch, salt, pepper)",
+      "potato",
+      "dried tomato",
+      "garlic paste",
+      "herbes de Provence",
+      "red cabbage",
+      "onion",
+      "cashews",
+      "extra virgin olive oil",
+      "salt",
+      "pepper"
+    ],
+    "allergens": ["CELERY", "SULFITES", "NUTS"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/solomillo-braseado-higos/solomillo-braseado-higos.webp",
+      "https://nanakuh.github.io/mock-api-food/food/solomillo-braseado-higos/solomillo-braseado-higos-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/solomillo-braseado-higos/solomillo-braseado-higos-cenital.webp"
+    ],
+    "tags": ["Balanced"],
+    "foodGroup": "meat"
+  },
+  {
+    "name": "Salmon with Cava Sauce",
+    "description": "Tender salmon served with a delicate cava sauce, accompanied by a medley of vegetables and seasoned with Cajun spices.",
+    "quantity": "450 grams",
+    "price": 8.95,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "106 kcal",
+        "energy": "443 kJ",
+        "fats": "5 g",
+        "saturatedFats": "1.1 g",
+        "carbohydrates": "6.7 g",
+        "sugars": "2.9 g",
+        "protein": "7.8 g",
+        "dietaryFiber": "1.4 g",
+        "salt": "0.4 g"
+      },
+      {
+        "quantity": "per 450g",
+        "calories": "477 kcal",
+        "energy": "1993 kJ",
+        "fats": "22.5 g",
+        "saturatedFats": "4.9 g",
+        "carbohydrates": "30.1 g",
+        "sugars": "13 g",
+        "protein": "35.1 g",
+        "dietaryFiber": "6.3 g",
+        "salt": "1.8 g"
+      }
+    ],
+    "ingredients": [
+      "salmon",
+      "cava sauce (cava, fish broth, cream, onion, homemade fried tomato, olive oil, corn starch)",
+      "cabbage",
+      "onion",
+      "carrot",
+      "potato",
+      "sweet potato",
+      "garlic",
+      "natural tomato",
+      "vinegar",
+      "pepper",
+      "salt",
+      "Cajun spices"
+    ],
+    "allergens": [
+      "SULFITES",
+      "FISH",
+      "CRUSTACEAN",
+      "MOLLUSC",
+      "CELERY",
+      "DAIRY"
+    ],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/salmon-cava/salmon-cava.webp",
+      "https://nanakuh.github.io/mock-api-food/food/salmon-cava/salmon-cava-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/salmon-cava/salmon-cava-cenital.webp"
+    ],
+    "tags": ["Balanced"],
+    "foodGroup": "seafood"
+  },
+  {
+    "name": "Rice with Pork Ribs and Mushrooms",
+    "description": "Savory rice cooked with pork ribs and a variety of mushrooms, seasoned with traditional salmorreta and a hint of natural coloring.",
+    "quantity": "420 grams",
+    "price": 6.95,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "192 kcal",
+        "energy": "805 kJ",
+        "fats": "9.7 g",
+        "saturatedFats": "2.8 g",
+        "carbohydrates": "19.2 g",
+        "sugars": "0.7 g",
+        "protein": "7.1 g",
+        "dietaryFiber": "1.1 g",
+        "salt": "0.2 g"
+      },
+      {
+        "quantity": "per 420g",
+        "calories": "806 kcal",
+        "energy": "3381 kJ",
+        "fats": "40.7 g",
+        "saturatedFats": "11.8 g",
+        "carbohydrates": "80.6 g",
+        "sugars": "2.9 g",
+        "protein": "29.8 g",
+        "dietaryFiber": "4.6 g",
+        "salt": "0.8 g"
+      }
+    ],
+    "ingredients": [
+      "rice",
+      "pork ribs",
+      "chicken and pork broth",
+      "mushroom broth",
+      "mushrooms",
+      "onion",
+      "salmorreta (a paste made with garlic, tomatoes, and spices)",
+      "extra virgin olive oil",
+      "salt",
+      "natural coloring"
+    ],
+    "allergens": ["CELERY"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/arroz-costilla-setas/arroz-costilla-setas.webp",
+      "https://nanakuh.github.io/mock-api-food/food/arroz-costilla-setas/arroz-costilla-setas-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/arroz-costilla-setas/arroz-costilla-setas-cenital.webp"
+    ],
+    "tags": ["Hearty"],
+    "foodGroup": "meat"
+  },
+  {
+    "name": "Bolognese Lasagna",
+    "description": "Classic lasagna layered with rich bolognese sauce, creamy bechamel, and topped with melted mozzarella, perfect for a comforting meal.",
+    "quantity": "450 grams",
+    "price": 7.25,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "144 kcal",
+        "energy": "603 kJ",
+        "fats": "8.1 g",
+        "saturatedFats": "3.5 g",
+        "carbohydrates": "11.3 g",
+        "sugars": "4.4 g",
+        "protein": "6.3 g",
+        "dietaryFiber": "0.7 g",
+        "salt": "0.5 g"
+      },
+      {
+        "quantity": "per 450g",
+        "calories": "648 kcal",
+        "energy": "2713 kJ",
+        "fats": "36.4 g",
+        "saturatedFats": "15.7 g",
+        "carbohydrates": "50.8 g",
+        "sugars": "19.8 g",
+        "protein": "28.3 g",
+        "dietaryFiber": "2.6 g",
+        "salt": "1.5 g"
+      }
+    ],
+    "ingredients": [
+      "wheat pasta",
+      "bolognese sauce (homemade fried tomato, beef, carrot, onion, red wine, celery, salt, pepper)",
+      "bechamel sauce (milk, wheat flour, butter, nutmeg, black pepper, salt)",
+      "mozzarella cheese",
+      "extra virgin olive oil",
+      "salt",
+      "pepper"
+    ],
+    "allergens": ["GLUTEN", "SULFITES", "CELERY", "DAIRY"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/lasagna-bolognesa/lasagna-bolognesa.webp",
+      "https://nanakuh.github.io/mock-api-food/food/lasagna-bolognesa/lasagna-bolognesa-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/lasagna-bolognesa/lasagna-bolognesa-cenital.webp"
+    ],
+    "tags": ["Comfort Food"],
+    "foodGroup": "pasta"
+  },
+  {
+    "name": "Tandoori Chicken with Saffron Rice and Dates",
+    "description": "Succulent Tandoori chicken served with aromatic saffron rice and sweet dates, a delightful fusion of flavors.",
+    "quantity": "450 grams",
+    "price": 7.45,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "169 kcal",
+        "energy": "708 kJ",
+        "fats": "5.7 g",
+        "saturatedFats": "2.9 g",
+        "carbohydrates": "18.3 g",
+        "sugars": "3.3 g",
+        "protein": "11.1 g",
+        "dietaryFiber": "0.6 g",
+        "salt": "0.1 g"
+      },
+      {
+        "quantity": "per 450g",
+        "calories": "760 kcal",
+        "energy": "3186 kJ",
+        "fats": "25.6 g",
+        "saturatedFats": "13 g",
+        "carbohydrates": "82.3 g",
+        "sugars": "14.8 g",
+        "protein": "49.9 g",
+        "dietaryFiber": "2.7 g",
+        "salt": "0.4 g"
+      }
+    ],
+    "ingredients": [
+      "chicken",
+      "rice",
+      "tandoori sauce (cream, yogurt, chicken broth, garlic, tandoori spices)",
+      "dates",
+      "saffron",
+      "extra virgin olive oil",
+      "salt",
+      "pepper"
+    ],
+    "allergens": ["DAIRY", "CELERY", "MUSTARD"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/pollo-tandori/pollo-tandori.webp",
+      "https://nanakuh.github.io/mock-api-food/food/pollo-tandori/pollo-tandori-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/pollo-tandori/pollo-tandori-cenital.webp"
+    ],
+    "tags": ["Flavorful"],
+    "foodGroup": "poultry"
+  },
+  {
+    "name": "Cod in Vizcaina Sauce",
+    "description": "Tender cod fillets served in a classic Vizcaina sauce, accompanied by potatoes, peas, and pumpkin, offering a harmonious blend of flavors.",
+    "quantity": "450 grams",
+    "price": 8.95,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "86 kcal",
+        "energy": "361 kJ",
+        "fats": "3 g",
+        "saturatedFats": "0.4 g",
+        "carbohydrates": "6.7 g",
+        "sugars": "1.1 g",
+        "protein": "8.1 g",
+        "dietaryFiber": "1.4 g",
+        "salt": "0.4 g"
+      },
+      {
+        "quantity": "per 450g",
+        "calories": "387 kcal",
+        "energy": "1624 kJ",
+        "fats": "13.5 g",
+        "saturatedFats": "1.8 g",
+        "carbohydrates": "30.1 g",
+        "sugars": "4.9 g",
+        "protein": "36.4 g",
+        "dietaryFiber": "6.3 g",
+        "salt": "1.8 g"
+      }
+    ],
+    "ingredients": [
+      "cod",
+      "potato",
+      "pea",
+      "pumpkin",
+      "Vizcaina sauce (fish broth, red pepper, onion, natural tomato, extra virgin olive oil, choricero pepper paste, brandy, garlic, salt, pepper, vegetable broth, corn starch)"
+    ],
+    "allergens": ["FISH", "CRUSTACEANS", "MOLLUSCS", "CELERY"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/bacalao-vizcaina-guisantes-patata/bacalao-vizcaina-guisantes-patata.webp",
+      "https://nanakuh.github.io/mock-api-food/food/bacalao-vizcaina-guisantes-patata/bacalao-vizcaina-guisantes-patata-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/bacalao-vizcaina-guisantes-patata/bacalao-vizcaina-guisantes-patata-cenital.webp"
+    ],
+    "tags": ["Balanced"],
+    "foodGroup": "seafood"
+  },
+  {
+    "name": "Chicken in Swedish Sauce",
+    "description": "Juicy chicken breast served with a creamy Swedish sauce, accompanied by potatoes and green beans, perfectly seasoned for a delightful meal.",
+    "quantity": "450 grams",
+    "price": 7.5,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "108 kcal",
+        "energy": "454 kJ",
+        "fats": "5.5 g",
+        "saturatedFats": "1.7 g",
+        "carbohydrates": "6.5 g",
+        "sugars": "1.5 g",
+        "protein": "8.1 g",
+        "dietaryFiber": "1.4 g",
+        "salt": "0.1 g"
+      },
+      {
+        "quantity": "per 450g",
+        "calories": "486 kcal",
+        "energy": "2043 kJ",
+        "fats": "24.7 g",
+        "saturatedFats": "7.6 g",
+        "carbohydrates": "29.2 g",
+        "sugars": "6.7 g",
+        "protein": "36.4 g",
+        "dietaryFiber": "6.3 g",
+        "salt": "0.4 g"
+      }
+    ],
+    "ingredients": [
+      "chicken breast",
+      "Swedish sauce (chicken broth, cream, onion, mustard, butter, Worcestershire sauce, salt, pepper, corn starch)",
+      "potato",
+      "green beans",
+      "onion",
+      "extra virgin olive oil",
+      "salt",
+      "pepper"
+    ],
+    "allergens": ["CELERY", "DAIRY", "MUSTARD", "SULFITES", "FISH"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/pollo-salsa-sueca/pollo-salsa-sueca.webp",
+      "https://nanakuh.github.io/mock-api-food/food/pollo-salsa-sueca/pollo-salsa-sueca-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/pollo-salsa-sueca/pollo-salsa-sueca-cenital.webp"
+    ],
+    "tags": ["Creamy", "Comfort Food"],
+    "foodGroup": "poultry"
+  },
+  {
+    "name": "Turkey in Mushroom and Tarragon Sauce",
+    "description": "Tender turkey breast in a creamy mushroom and tarragon sauce, served with a mix of eggplant, zucchini, potatoes, and sweet potatoes, seasoned to perfection.",
+    "quantity": "450 grams",
+    "price": 7.49,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "87 kcal",
+        "energy": "362 kJ",
+        "fats": "2.8 g",
+        "saturatedFats": "0.6 g",
+        "carbohydrates": "6.7 g",
+        "sugars": "2.9 g",
+        "protein": "8.6 g",
+        "dietaryFiber": "1.3 g",
+        "salt": "0.2 g"
+      },
+      {
+        "quantity": "per 450g",
+        "calories": "391 kcal",
+        "energy": "1629 kJ",
+        "fats": "12.6 g",
+        "saturatedFats": "2.7 g",
+        "carbohydrates": "30.1 g",
+        "sugars": "13 g",
+        "protein": "38.7 g",
+        "dietaryFiber": "5.9 g",
+        "salt": "0.9 g"
+      }
+    ],
+    "ingredients": [
+      "turkey breast",
+      "mushroom and tarragon sauce (cream, mushrooms, chicken broth, tarragon)",
+      "eggplant",
+      "zucchini",
+      "potato",
+      "sweet potato",
+      "extra virgin olive oil",
+      "salt",
+      "pepper"
+    ],
+    "allergens": ["DAIRY", "CELERY"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/pollo-salsa-setas-estragon/pollo-salsa-setas-estragon.webp"
+    ],
+    "tags": ["Balanced"],
+    "foodGroup": "poultry"
+  },
+  {
+    "name": "Chickpeas with Squid and Sweet Potato",
+    "description": "A hearty dish combining chickpeas and squid with sweet potato, flavored with kimchi and paprika, offering a unique taste experience.",
+    "quantity": "450 grams",
+    "price": 6.85,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "109 kcal",
+        "energy": "458 kJ",
+        "fats": "1.9 g",
+        "saturatedFats": "0.4 g",
+        "carbohydrates": "14.4 g",
+        "sugars": "3.9 g",
+        "protein": "8.7 g",
+        "dietaryFiber": "3.3 g",
+        "salt": "0.2 g"
+      },
+      {
+        "quantity": "per 450g",
+        "calories": "490 kcal",
+        "energy": "2061 kJ",
+        "fats": "8.5 g",
+        "saturatedFats": "1.8 g",
+        "carbohydrates": "64.8 g",
+        "sugars": "17.5 g",
+        "protein": "39.1 g",
+        "dietaryFiber": "14.8 g",
+        "salt": "0.9 g"
+      }
+    ],
+    "ingredients": [
+      "chickpeas",
+      "squid",
+      "onion",
+      "bell pepper",
+      "sweet potato",
+      "fish broth",
+      "kimchi",
+      "paprika",
+      "salt",
+      "extra virgin olive oil"
+    ],
+    "allergens": ["MOLLUSC", "FISH", "CRUSTACEANS", "CELERY", "SOY"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/garbanzos-calamar/garbanzos-calamar.webp",
+      "https://nanakuh.github.io/mock-api-food/food/garbanzos-calamar/garbanzos-calamar-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/garbanzos-calamar/garbanzos-calamar-cenital.webp"
+    ],
+    "tags": ["Novelty"],
+    "foodGroup": "seafood"
+  },
+  {
+    "name": "Tagliatelle in Spinach and Shrimp Sauce",
+    "description": "Delicious tagliatelle pasta served in a creamy spinach and shrimp sauce, enriched with white wine and a touch of garlic, creating a perfect blend of flavors.",
+    "quantity": "420 grams",
+    "price": 7.25,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "126 kcal",
+        "energy": "526 kJ",
+        "fats": "5.5 g",
+        "saturatedFats": "2.5 g",
+        "carbohydrates": "13.1 g",
+        "sugars": "1.1 g",
+        "protein": "5.6 g",
+        "dietaryFiber": "1.3 g",
+        "salt": "0.3 g"
+      },
+      {
+        "quantity": "per 420g",
+        "calories": "529 kcal",
+        "energy": "2209 kJ",
+        "fats": "23.1 g",
+        "saturatedFats": "10.5 g",
+        "carbohydrates": "55 g",
+        "sugars": "4.6 g",
+        "protein": "23.5 g",
+        "dietaryFiber": "5.5 g",
+        "salt": "1.3 g"
+      }
+    ],
+    "ingredients": [
+      "tagliatelle",
+      "fish broth",
+      "shrimp",
+      "cream",
+      "spinach",
+      "onion",
+      "white wine",
+      "butter",
+      "extra virgin olive oil",
+      "garlic",
+      "pepper",
+      "salt"
+    ],
+    "allergens": [
+      "GLUTEN",
+      "FISH",
+      "CRUSTACEANS",
+      "MOLLUSCS",
+      "CELERY",
+      "DAIRY",
+      "SULFITES"
+    ],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/tallarines-espinaca-gamba/tallarines-espinaca-gamba.webp",
+      "https://nanakuh.github.io/mock-api-food/food/tallarines-espinaca-gamba/tallarines-espinaca-gamba-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/tallarines-espinaca-gamba/tallarines-espinaca-gamba-cenital.webp"
+    ],
+    "tags": ["Gourmet"],
+    "foodGroup": "pasta"
+  },
+  {
+    "name": "Vegetable Bourguignon with Rice",
+    "description": "A plant-based twist on the classic Bourguignon, featuring textured soy protein and rice, simmered in a rich sauce with mushrooms, carrots, onions, and a hint of red wine.",
+    "quantity": "450 grams",
+    "price": 6.75,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "142 kcal",
+        "energy": "594 kJ",
+        "fats": "2.3 g",
+        "saturatedFats": "0.5 g",
+        "carbohydrates": "21.1 g",
+        "sugars": "3.4 g",
+        "protein": "7.7 g",
+        "dietaryFiber": "2.2 g",
+        "salt": "0.2 g"
+      },
+      {
+        "quantity": "per 450g",
+        "calories": "639 kcal",
+        "energy": "2673 kJ",
+        "fats": "10.3 g",
+        "saturatedFats": "2.2 g",
+        "carbohydrates": "94.9 g",
+        "sugars": "15.3 g",
+        "protein": "34.6 g",
+        "dietaryFiber": "9.9 g",
+        "salt": "0.9 g"
+      }
+    ],
+    "ingredients": [
+      "textured soy protein",
+      "rice",
+      "vegetable broth",
+      "mushroom",
+      "carrot",
+      "onion",
+      "homemade fried tomato",
+      "red wine",
+      "extra virgin olive oil",
+      "garlic",
+      "salt",
+      "pepper",
+      "parsley",
+      "sugar",
+      "corn starch"
+    ],
+    "allergens": ["SOY", "CELERY", "SULFITES"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/bourguignon/bourguignon.webp",
+      "https://nanakuh.github.io/mock-api-food/food/bourguignon/bourguignon-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/bourguignon/bourguignon-cenital.webp"
+    ],
+    "tags": ["Vegan"],
+    "foodGroup": "vegan"
+  },
+  {
+    "name": "Tomato Soup with Red Beans and Sweet Potato",
+    "description": "A hearty soup made with ripe tomatoes, sweet potatoes, and red beans, seasoned with ras el hanout for a subtle spice that enhances the flavors.",
+    "quantity": "420 grams",
+    "price": 5.25,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "72 kcal",
+        "energy": "303 kJ",
+        "fats": "1.6 g",
+        "saturatedFats": "0.4 g",
+        "carbohydrates": "9.9 g",
+        "sugars": "3.8 g",
+        "protein": "3.9 g",
+        "dietaryFiber": "2 g",
+        "salt": "0.4 g"
+      },
+      {
+        "quantity": "per 420g",
+        "calories": "302 kcal",
+        "energy": "1273 kJ",
+        "fats": "6.7 g",
+        "saturatedFats": "1.7 g",
+        "carbohydrates": "41.6 g",
+        "sugars": "15.9 g",
+        "protein": "16.4 g",
+        "dietaryFiber": "8.4 g",
+        "salt": "1.7 g"
+      }
+    ],
+    "ingredients": [
+      "tomato",
+      "sweet potato",
+      "red beans",
+      "onion",
+      "celery",
+      "garlic",
+      "salt",
+      "pepper",
+      "ras el hanout"
+    ],
+    "allergens": ["CELERY"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/sopa-tomate-boniato-alubia/sopa-tomate-boniato-alubia.webp",
+      "https://nanakuh.github.io/mock-api-food/food/sopa-tomate-boniato-alubia/sopa-tomate-boniato-alubia-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/sopa-tomate-boniato-alubia/sopa-tomate-boniato-alubia-cenital.webp"
+    ],
+    "tags": ["Hearty"],
+    "foodGroup": "soup"
+  },
+  {
+    "name": "Tofu and Vegetable Pad Thai",
+    "description": "A vibrant and flavorful dish featuring rice noodles, tofu, and mixed vegetables, tossed with tamarind, soy sauce, lime juice, and sriracha, garnished with peanuts and cilantro.",
+    "quantity": "420 grams",
+    "price": 6.57,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "153 kcal",
+        "energy": "640 kJ",
+        "fats": "3.9 g",
+        "saturatedFats": "0.4 g",
+        "carbohydrates": "19.9 g",
+        "sugars": "4.3 g",
+        "protein": "4.9 g",
+        "dietaryFiber": "1.2 g",
+        "salt": "0.4 g"
+      },
+      {
+        "quantity": "per 420g",
+        "calories": "642 kcal",
+        "energy": "2688 kJ",
+        "fats": "16.3 g",
+        "saturatedFats": "1.6 g",
+        "carbohydrates": "83.5 g",
+        "sugars": "18.0 g",
+        "protein": "20.5 g",
+        "dietaryFiber": "5.0 g",
+        "salt": "1.6 g"
+      }
+    ],
+    "ingredients": [
+      "rice noodles",
+      "tofu",
+      "bell pepper",
+      "mushrooms",
+      "green garlic",
+      "tamarind",
+      "soy sauce",
+      "lime juice",
+      "sriracha",
+      "peanuts",
+      "cilantro",
+      "salt"
+    ],
+    "allergens": ["SOY", "GLUTEN", "PEANUT"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/pad-thai-tofu/pad-thai-tofu.webp",
+      "https://nanakuh.github.io/mock-api-food/food/pad-thai-tofu/pad-thai-tofu-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/pad-thai-tofu/pad-thai-tofu-cenital.webp"
+    ],
+    "tags": ["Vibrant"],
+    "foodGroup": "noodles"
+  },
+  {
+    "name": "Eggplant Parmesan",
+    "description": "A delightful vegan version of the classic Eggplant Parmesan, featuring layers of eggplant with homemade tomato sauce, carrots, onions, and topped with vegan cheese.",
+    "quantity": "400 grams",
+    "price": 6.95,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "73 kcal",
+        "energy": "306 kJ",
+        "fats": "1.9 g",
+        "saturatedFats": "0.9 g",
+        "carbohydrates": "10.3 g",
+        "sugars": "6.2 g",
+        "protein": "3.4 g",
+        "dietaryFiber": "1.8 g",
+        "salt": "0.3 g"
+      },
+      {
+        "quantity": "per 400g",
+        "calories": "292 kcal",
+        "energy": "1224 kJ",
+        "fats": "7.6 g",
+        "saturatedFats": "3.6 g",
+        "carbohydrates": "41.2 g",
+        "sugars": "24.8 g",
+        "protein": "13.6 g",
+        "dietaryFiber": "7.2 g",
+        "salt": "1.2 g"
+      }
+    ],
+    "ingredients": [
+      "eggplant",
+      "homemade fried tomato",
+      "carrot",
+      "onion",
+      "textured soy",
+      "garlic",
+      "vegan cheese",
+      "extra virgin olive oil",
+      "salt",
+      "pepper"
+    ],
+    "allergens": ["SOY"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/berenjena-parmesana/berenjena-parmesana.webp",
+      "https://nanakuh.github.io/mock-api-food/food/berenjena-parmesana/berenjena-parmesana-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/berenjena-parmesana/berenjena-parmesana-cenital.webp"
+    ],
+    "tags": ["Vegan"],
+    "foodGroup": "vegetarian"
+  },
+  {
+    "name": "Cheesecake",
+    "description": "A classic cheesecake made with creamy cheese, rich cream, and a blend of wheat and almond flours, enhanced with cinnamon and lemon zest for a subtle spiced and citrus flavor.",
+    "quantity": "150 grams",
+    "price": 3.3,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "215 kcal",
+        "energy": "901 kJ",
+        "fats": "8.8 g",
+        "saturatedFats": "5.2 g",
+        "carbohydrates": "23.9 g",
+        "sugars": "21.4 g",
+        "protein": "9.5 g",
+        "dietaryFiber": "0.02 g",
+        "salt": "0.04 g"
+      },
+      {
+        "quantity": "per 150g",
+        "calories": "322 kcal",
+        "energy": "1351 kJ",
+        "fats": "13.2 g",
+        "saturatedFats": "7.8 g",
+        "carbohydrates": "35.8 g",
+        "sugars": "32.1 g",
+        "protein": "14.2 g",
+        "dietaryFiber": "0.03 g",
+        "salt": "0.06 g"
+      }
+    ],
+    "ingredients": [
+      "cream cheese",
+      "sugar",
+      "cream",
+      "corn starch",
+      "egg",
+      "wheat flour",
+      "almond flour",
+      "butter",
+      "salt",
+      "cinnamon",
+      "lemon zest"
+    ],
+    "allergens": ["DAIRY", "EGG", "GLUTEN", "TREE NUTS"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/tarta-queso/tarta-queso.webp",
+      "https://nanakuh.github.io/mock-api-food/food/tarta-queso/tarta-queso-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/tarta-queso/tarta-queso-cenital.webp"
+    ],
+    "tags": ["Dessert"],
+    "foodGroup": "desserts"
+  },
+  {
+    "name": "Coconut Milk Rice Pudding with Pistachios",
+    "description": "A rich and creamy rice pudding made with coconut milk, infused with a hint of ginger and cinnamon, garnished with pistachios and lemon zest for a refreshing twist.",
+    "quantity": "150 grams",
+    "price": 3.3,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "142 kcal",
+        "energy": "596 kJ",
+        "fats": "1.8 g",
+        "saturatedFats": "1.2 g",
+        "carbohydrates": "27.2 g",
+        "sugars": "19.7 g",
+        "protein": "4.0 g",
+        "dietaryFiber": "0.4 g",
+        "salt": "0.1 g"
+      },
+      {
+        "quantity": "per 150g",
+        "calories": "213 kcal",
+        "energy": "894 kJ",
+        "fats": "2.7 g",
+        "saturatedFats": "1.8 g",
+        "carbohydrates": "40.8 g",
+        "sugars": "29.5 g",
+        "protein": "6.0 g",
+        "dietaryFiber": "0.6 g",
+        "salt": "0.2 g"
+      }
+    ],
+    "ingredients": [
+      "coconut milk",
+      "sugar",
+      "rice",
+      "pistachio",
+      "ginger",
+      "salt",
+      "cinnamon",
+      "lemon peel"
+    ],
+    "allergens": ["TREE NUTS"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/arroz-leche/arroz-leche.webp",
+      "https://nanakuh.github.io/mock-api-food/food/arroz-leche/arroz-leche-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/arroz-leche/arroz-leche-cenital.webp"
+    ],
+    "tags": ["Dessert"],
+    "foodGroup": "desserts"
+  },
+  {
+    "name": "Chocolate Raspberry Brownie",
+    "description": "A rich and decadent brownie, blending smooth chocolate with tangy raspberries for a delightful combination. This dessert is both lush and satisfying.",
+    "quantity": "150 grams",
+    "price": 3.3,
+    "currency": "EUR",
+    "stock": 100,
+    "nutritionalInfo": [
+      {
+        "quantity": "per 100g",
+        "calories": "437 kcal",
+        "energy": "1829 kJ",
+        "fats": "28.1 g",
+        "saturatedFats": "14.9 g",
+        "carbohydrates": "41 g",
+        "sugars": "32.5 g",
+        "protein": "5 g",
+        "dietaryFiber": "2.2 g",
+        "salt": "0.09 g"
+      },
+      {
+        "quantity": "per 150g",
+        "calories": "655 kcal",
+        "energy": "2738 kJ",
+        "fats": "42.1 g",
+        "saturatedFats": "22.3 g",
+        "carbohydrates": "61.5 g",
+        "sugars": "48.7 g",
+        "protein": "7.5 g",
+        "dietaryFiber": "3.3 g",
+        "salt": "0.1 g"
+      }
+    ],
+    "ingredients": [
+      "sugar",
+      "egg",
+      "butter",
+      "chocolate",
+      "wheat flour",
+      "raspberries"
+    ],
+    "allergens": ["EGG", "DAIRY", "GLUTEN"],
+    "images": [
+      "https://nanakuh.github.io/mock-api-food/food/brownie-chocolate-frutos-rojos/brownie-chocolate-frutos-rojos.webp",
+      "https://nanakuh.github.io/mock-api-food/food/brownie-chocolate-frutos-rojos/brownie-chocolate-frutos-rojos-detalle.webp",
+      "https://nanakuh.github.io/mock-api-food/food/brownie-chocolate-frutos-rojos/brownie-chocolate-frutos-rojos-cenital.webp"
+    ],
+    "tags": ["Dessert"],
+    "foodGroup": "desserts"
+  }
+]
